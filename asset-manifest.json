@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/dhirajsonavane/react-github-users/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/dhirajsonavane/react-github-users/static/js/main.8b09552e.chunk.js",
-    "main.js.map": "/dhirajsonavane/react-github-users/static/js/main.8b09552e.chunk.js.map",
-    "runtime-main.js": "/dhirajsonavane/react-github-users/static/js/runtime-main.1898b8a7.js",
-    "runtime-main.js.map": "/dhirajsonavane/react-github-users/static/js/runtime-main.1898b8a7.js.map",
-    "static/js/2.71ecee75.chunk.js": "/dhirajsonavane/react-github-users/static/js/2.71ecee75.chunk.js",
-    "static/js/2.71ecee75.chunk.js.map": "/dhirajsonavane/react-github-users/static/js/2.71ecee75.chunk.js.map",
-    "index.html": "/dhirajsonavane/react-github-users/index.html",
-    "precache-manifest.f36b3e05fb3d53fb950b7c87bd9c39d3.js": "/dhirajsonavane/react-github-users/precache-manifest.f36b3e05fb3d53fb950b7c87bd9c39d3.js",
-    "service-worker.js": "/dhirajsonavane/react-github-users/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/dhirajsonavane/react-github-users/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.71ecee75.chunk.js.LICENSE.txt": "/dhirajsonavane/react-github-users/static/js/2.71ecee75.chunk.js.LICENSE.txt"
+    "main.css": "/react-github-users/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-github-users/static/js/main.fb20b27c.chunk.js",
+    "main.js.map": "/react-github-users/static/js/main.fb20b27c.chunk.js.map",
+    "runtime-main.js": "/react-github-users/static/js/runtime-main.12910b8c.js",
+    "runtime-main.js.map": "/react-github-users/static/js/runtime-main.12910b8c.js.map",
+    "static/js/2.71ecee75.chunk.js": "/react-github-users/static/js/2.71ecee75.chunk.js",
+    "static/js/2.71ecee75.chunk.js.map": "/react-github-users/static/js/2.71ecee75.chunk.js.map",
+    "index.html": "/react-github-users/index.html",
+    "precache-manifest.f4a4e4c342e05452f6a0ed35c4408a00.js": "/react-github-users/precache-manifest.f4a4e4c342e05452f6a0ed35c4408a00.js",
+    "service-worker.js": "/react-github-users/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-github-users/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.71ecee75.chunk.js.LICENSE.txt": "/react-github-users/static/js/2.71ecee75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.1898b8a7.js",
+    "static/js/runtime-main.12910b8c.js",
     "static/js/2.71ecee75.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.8b09552e.chunk.js"
+    "static/js/main.fb20b27c.chunk.js"
   ]
 }
