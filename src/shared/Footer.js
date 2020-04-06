@@ -9,7 +9,7 @@ function Copyright() {
   return (
     <Typography variant="body2" color="textSecondary">
       {'Copyright © '}
-      <a color="inherit" target='_blank' href="https://github.com/dhirajsonavane">
+      <a color="inherit" target='_blank' href="https://github.com/dhirajsonavane/react-github-users">
       React Material UI - Display Github Users
       </a>{' '}
       {new Date().getFullYear()}
